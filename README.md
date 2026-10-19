@@ -132,19 +132,7 @@ Evaluasi Logistic Regression menghasilkan accuracy 93,33%, precision 85,71%, rec
 
 Secara keseluruhan, proyek ini memberikan pemahaman mengenai implementasi algoritma Machine Learning, proses pelatihan, evaluasi, visualisasi, dan analisis hasil prediksi.
 
-## Cara Menjalankan
 
-1. Clone atau unduh repositori ini.
-2. Pastikan Python dan library yang diperlukan telah terpasang.
-3. Letakkan file `Ads_Data.csv` dan `Email_Data.csv` pada direktori yang sesuai dengan notebook.
-4. Buka notebook menggunakan Jupyter Notebook atau JupyterLab.
-5. Jalankan seluruh sel secara berurutan dari awal hingga akhir.
-
-Instalasi library yang diperlukan:
-
-```bash
-pip install numpy pandas matplotlib scikit-learn jupyter
-```
 
 ## Catatan
 
